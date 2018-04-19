@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>http://m.nmgcnt.com/filedata/app/iphone.png</string>
 				</dict>
