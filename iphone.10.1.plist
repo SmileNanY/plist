@@ -17,15 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://m.nmgcnt.com/filedata/app/iphone.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<false/>
 					<key>url</key>
 					<string>http://m.nmgcnt.com/filedata/app/iphone.png</string>
 				</dict>
